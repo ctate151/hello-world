@@ -1,2 +1,6 @@
 # hello-world
-My first repository
+
+
+Greetings,
+
+I am Cameron Tate and I am here to learn and occasionally create.
